@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelDiffTool_New", "X003\ExcelDiffTool_New.csproj", "{D4D377C2-1D53-4776-A2D0-839E077BD5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Debug|x64.ActiveCfg = Debug|x64
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Debug|x64.Build.0 = Debug|x64
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Release|x64.ActiveCfg = Release|x64
+		{D4D377C2-1D53-4776-A2D0-839E077BD5F5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F5CF8F-F8D9-4253-A825-52D5F36DCFA2}
+	EndGlobalSection
+EndGlobal
